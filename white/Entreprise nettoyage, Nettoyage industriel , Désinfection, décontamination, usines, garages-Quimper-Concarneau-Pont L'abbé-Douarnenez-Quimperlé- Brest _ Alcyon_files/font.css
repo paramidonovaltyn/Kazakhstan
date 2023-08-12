@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Lato';
+	src: url('font/Lato-Bold.eot');
+	src: url('font/Lato-Bold%EF%B9%96.eot#iefix') format('embedded-opentype'),
+	url('font/Lato-Bold.woff2') format('woff2'),
+	url('font/Lato-Bold.woff') format('woff'),
+	url('font/Lato-Bold.ttf') format('truetype'),
+	url('font/Lato-Bold.svg#Lato-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lato';
+	src: url('font/Lato-Regular.eot');
+	src: url('font/Lato-Regular%EF%B9%96.eot#iefix') format('embedded-opentype'),
+	url('font/Lato-Regular.woff2') format('woff2'),
+	url('font/Lato-Regular.woff') format('woff'),
+	url('font/Lato-Regular.ttf') format('truetype'),
+	url('font/Lato-Regular.svg#Lato-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Derivia';
+	src: url('font/Derivia-Regular.eot');
+	src: url('font/Derivia-Regular%EF%B9%96.eot#iefix') format('embedded-opentype'),
+	url('font/Derivia-Regular.woff2') format('woff2'),
+	url('font/Derivia-Regular.woff') format('woff'),
+	url('font/Derivia-Regular.ttf') format('truetype'),
+	url('font/Derivia-Regular.svg#Derivia-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+

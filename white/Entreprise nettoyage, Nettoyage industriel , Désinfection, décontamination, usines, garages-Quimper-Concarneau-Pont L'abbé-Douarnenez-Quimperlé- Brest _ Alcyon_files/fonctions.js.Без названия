@@ -1,0 +1,11 @@
+ function ConfirmMessage() 
+ {
+       if (confirm("Confirmer suppression ?")) 
+	   { // Clic sur OK
+           return true;
+       }
+	   else
+	   { // Clic sur OK
+           return false;
+       }
+   }

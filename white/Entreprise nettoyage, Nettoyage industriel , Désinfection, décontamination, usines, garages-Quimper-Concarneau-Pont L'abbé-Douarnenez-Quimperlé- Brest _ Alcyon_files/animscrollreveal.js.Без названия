@@ -1,0 +1,2 @@
+ScrollReveal().reveal('.unPictoEts, .slick-acces, .slickOffres, .slickActu', { delay: 500, distance: '250px', interval: 150 });
+ScrollReveal().reveal('.sous-titre, .titleHome', { origin: 'left', delay: 500, distance: '500px', interval: 150 });
